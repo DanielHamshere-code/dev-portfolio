@@ -1,10 +1,10 @@
 # Project: C Tictactoe
-## 🧠 What It Does? - 
+## 🧠 What It Does? - This is a C language coding mini project that I have undertaken during my own time outside of my studies.
 
-## 🔧 Technologies Used
+## 🔧 Technologies Used -
 
-## ✅ What I Learned
+## ✅ What I Learned -
 
-## 💡 Future Improvements
+## 💡 Future Improvements -
 
 
